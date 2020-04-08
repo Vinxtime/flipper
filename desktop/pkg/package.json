@@ -17,7 +17,7 @@
     "@oclif/plugin-help": "^2",
     "@types/fs-extra": "^8.1.0",
     "@types/inquirer": "^6.5.0",
-    "@types/node": "^13.7.5",
+    "@types/node": "^13.11.1",
     "cli-ux": "^5.4.5",
     "fs-extra": "^8.1.0",
     "flipper-babel-transformer": "0.36.0",
